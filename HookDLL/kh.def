@@ -1,0 +1,7 @@
+LIBRARY kh
+SECTIONS
+	SHARDATA	Shared
+EXPORTS
+	noname_sub001
+	noname_sub002
+	noname_sub003
